@@ -322,8 +322,8 @@ a {
   margin-top: 30px;
 }
 
-.gallery_title_block{
-    text-align: center;
+.gallery_title_block {
+  text-align: center;
 }
 
 .gallert_title {
@@ -357,7 +357,7 @@ a {
   gap: 10px;
   margin-top: 30px;
   align-items: center;
-} 
+}
 
 .gallery_item {
   padding: 10px 10px 10px 10px;
@@ -379,199 +379,198 @@ a {
   height: 280px;
 }
 
-
-
-.newsletter_block{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 40px;
+.newsletter_block {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
 }
 
-.newsletter{
-    width: 590px;
-    height: 615px;
+.newsletter {
+  width: 590px;
+  height: 615px;
 }
 
-.newsletter_pic{
-    width: 100%;
-    height: 100%;
+.newsletter_pic {
+  width: 100%;
+  height: 100%;
 }
 
 .signup_text {
-    width: 600px;
+  width: 600px;
 }
 
 .signup_block {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
-.validation_block{
-    display: flex;
-    justify-content: start;
-    margin-top: 80px;
-    padding: 0px;
+.validation_block {
+  display: flex;
+  justify-content: start;
+  margin-top: 80px;
+  padding: 0px;
 }
 
 .signup_title {
-    font-size: 42px;
-    line-height: 50px;
-    text-transform: uppercase;
+  font-size: 42px;
+  line-height: 50px;
+  text-transform: uppercase;
 }
 
 .signup_text {
-    color: rgb(56, 56, 56);
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 25px;
+  color: rgb(56, 56, 56);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 25px;
 }
 
 .input_block {
-    width: 350px;
-    height: 40px;
-    box-sizing: border-box;
-    padding: 18px 21px 19px 21px;
-    color: rgb(56, 56, 56);
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 25px;
-    margin-right: 10px;
+  width: 350px;
+  height: 40px;
+  box-sizing: border-box;
+  padding: 18px 21px 19px 21px;
+  color: rgb(56, 56, 56);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25px;
+  margin-right: 10px;
 }
-  
+
 .signup_button {
-    background: rgb(199, 72, 23);
-    width: 120px;
-    height: 40px;
-    border: transparent;
-    color: rgb(255, 255, 255);
-    font-size: 14px;
-    line-height: 20px;
-    font-weight: 400;
-    border-radius: 7%;
-    cursor: pointer;
-  }
-  
-  .signup_button:hover {
-    background: rgb(153, 57, 19);
+  background: rgb(199, 72, 23);
+  width: 120px;
+  height: 40px;
+  border: transparent;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  border-radius: 7%;
+  cursor: pointer;
 }
 
+.signup_button:hover {
+  background: rgb(153, 57, 19);
+}
 
-
-.section{
-    margin-top: 30px;
+.section {
+  margin-top: 30px;
 }
 
 .types_title {
-    font-size: 42px;
-    text-align: center;
+  font-size: 42px;
+  text-align: center;
 }
 
 .types_text {
-    color: rgb(56, 56, 56);
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 30px;
-    text-align: center;
+  color: rgb(56, 56, 56);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: center;
 }
 
 .honey_item {
-    width: 640px;
-    height: 190px;
-    background: rgb(252, 250, 249);
-    display: flex;
+  width: 640px;
+  height: 190px;
+  padding: 20px;
+  background: rgb(252, 250, 249);
+  display: flex;
+}
+
+.honey_item_last {
+  /* padding: 10px; */
+  text-align: center;
 }
 
 .honey_pic {
-    width: 156px;
-    height: 165px;
-    margin-left: 20px;
-    margin-top: 12px;
+  width: 156px;
+  height: 165px;
+  /* margin-left: 20px; */
+  /* margin-top: 12px; */
 }
 
 .honey_title {
-    font-size: 24px;
-    line-height: 30px;
-    padding: 20px 10px 10px 20px;
+  font-size: 24px;
+  line-height: 30px;
+  padding: 0px 0px 0px 0px;
 }
 
 .honey_text {
-    color: rgb(91, 88, 88);
-    font-size: 15px;
-    font-weight: 400;
-    line-height: 22px;
-    padding: 0px 10px 0px 20px;
+  color: rgb(91, 88, 88);
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 22px;
+  padding: 0px 0px 0px 20px;
 }
 
 .honey_href {
-    color: rgb(199, 72, 23);
-    font-size: 13px;
-    line-height: 35px;
-    padding: 10px 10px 10px 20px;
+  color: rgb(199, 72, 23);
+  font-size: 13px;
+  line-height: 35px;
+  padding: 10px 10px 10px 20px;
 }
 
 .honey_block {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 1em;
-    width: 100%;
-    margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1em;
+  width: 100%;
+  margin-top: 20px;
 }
 
-
-
 .footer {
-    margin-top: 60px;
-    padding: 35px;
+  margin-top: 60px;
+  padding: 35px;
 }
 
 .footer_logo {
-    width: 16px;
-    height: 16px;
-    margin-top: 3px;
+  width: 16px;
+  height: 16px;
+  margin-top: 3px;
 }
 
 .icon_block {
-    display: flex;
-    justify-content: center;
-}
-
-.icon_block_item{
-    margin-right: 10px;
+  display: flex;
+  justify-content: center;
 }
 
 .icon_block_item {
-    background-color: tomato;
-    width: 35px;
-    height: 35px;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 5px;
+  margin-right: 10px;
 }
 
-.footer_href{
-    padding: 5px;
+.icon_block_item {
+  background-color: tomato;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
 }
 
-.icon_block_item:hover{
-    background-color: rgb(182, 70, 51);
+.footer_href {
+  padding: 5px;
+}
+
+.icon_block_item:hover {
+  background-color: rgb(182, 70, 51);
 }
 
 .footer_pic_block {
-    display: flex;
-    justify-content: center;
-    margin-top: 28px;
-    cursor: pointer;
+  display: flex;
+  justify-content: center;
+  margin-top: 28px;
+  cursor: pointer;
 }
 
 .footer_text {
-    display: flex;
-    justify-content: center;
-    margin-top: 15px;
-    font-size: 13px;
-    font-weight: 400;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  font-size: 13px;
+  font-weight: 400;
 }
-

@@ -13,11 +13,6 @@
     justify-content: center;
   }
 
-
-  .signup_block {
-    /* width: 70%; */
-  }
-
   .gallery_wrap {
     display: flex;
     justify-content: center;
@@ -271,6 +266,12 @@
   .honey_pic {
     width: 100%;
     height: 100%;
+  }
+  .honey_title {
+    font-size: 20px;
+  }
+  .types_title {
+    font-size: 32px;
   }
   .biology_text {
     font-size: 20px;
