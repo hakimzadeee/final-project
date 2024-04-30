@@ -228,6 +228,9 @@
   .container {
     width: 100%;
   }
+  .honey_pic{
+    display: none;
+  }
   .newsletter_block {
     width: 100%;
   }
