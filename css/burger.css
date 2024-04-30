@@ -99,7 +99,7 @@
             display: block;
             padding: 15px 10px 10px 10px;
             visibility: hidden;
-            transition: transform .5s, visibility .5s;x;
+            transition: transform .5s, visibility .5s;
         }
     }
 }
