@@ -7,16 +7,23 @@
     <title>Document</title>
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/media.css">
+    <link rel="stylesheet" href="./css/burger.css">
 </head>
 
 <body>
     <div class="full_container">
         <div class="container">
+            <div class="body_wrapper">
             <header class="header">
                 <div class="header_logo">
                     <a href="#"><img class="logo_block" src="./img/logo_verstka.png" alt="logo_verstka"></a>
                 </div>
-                <ul class="main_menu">
+                
+                <button class="header__burger-btn" id="burger">
+                    <span></span><span></span><span></span>
+                </button>
+                
+                <ul class="main_menu" id="menu">
                     <li class="item_menu"><a href="#">HOME</a></li>
                     <li class="item_menu"><a href="#">PAGES</a></li>
                     <li class="item_menu"><a href="#">PRODUCTS</a></li>
@@ -297,8 +304,10 @@
                     </div>
                 </div>
             </footer>
+            </div>
         </div>
     </div>
+    <script src="./js/burger.js"></script>
 </body>
 
 </html>
